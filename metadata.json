@@ -1,0 +1,5 @@
+{
+  "name": "AI Family Photo Fusion",
+  "description": "An application that uses the Gemini 'nano banana' model to intelligently merge multiple individual photos into a single, cohesive family portrait based on a user's prompt.",
+  "requestFramePermissions": []
+}
